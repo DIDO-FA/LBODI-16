@@ -71,7 +71,7 @@ logo =f"""{A}
 {G1}[{A}={G1}]{G1} OWNER    {A}:{G1} KMATCHO LOUHICHI
 {G1}[{A}={G2}]{G2} FACEBOOK {A}:{G2} KMATCHO AL-LHONTKOR
 {G1}[{A}={G3}]{G3} TOOLTYPE {A}:{G3} FILE {A}&{G4}
-{G1}[{A}={G4}]{G4} VERSION  {A}:{G4} 3.1
+{G1}[{A}={G4}]{G4} VERSION  {A}:{G4} 3.2
 {G1}[{A}={G4}]{G5} STATUS   {A}:{G5} SCRIPT SELL
 {A}──────────────────────────────────────────────────"""
 #__________________[ RESULT ]__________________#
